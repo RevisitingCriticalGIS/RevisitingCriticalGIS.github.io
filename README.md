@@ -1,5 +1,5 @@
 ---
-title: Gallery of interesting shapes
+title: Revisiting Critical GIS
 layout: layout
 ---
 
