@@ -7,7 +7,4 @@ layout: layout
 RevisitingCriticalGIS.github.io
 ===============================
 
-hello world.
-
-Hello World but louder
-======================
+hello cruel world!
