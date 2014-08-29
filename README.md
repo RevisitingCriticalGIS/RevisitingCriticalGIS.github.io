@@ -1,10 +1,7 @@
 ---
 title: Revisiting Critical GIS
-layout: layout
+layout: newstyle
 ---
 
-
-RevisitingCriticalGIS.github.io
-===============================
 
 hello cruel world!
