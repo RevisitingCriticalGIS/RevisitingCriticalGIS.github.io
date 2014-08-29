@@ -2,11 +2,7 @@
 title: Revisiting Critical GIS
 layout: newstyle
 ---
-
-
 ### Posting your prospectus
-===============================
-
 
 #### Join GitHub and [the RevisitingCriticalGIS GitHub Organization](https://github.com/RevisitingCriticalGIS/)
 
