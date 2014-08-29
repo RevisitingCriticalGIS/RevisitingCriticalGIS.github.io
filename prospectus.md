@@ -1,7 +1,12 @@
 ---
-title: Submitting your prospectus
+title: Revisiting Critical GIS
 layout: newstyle
 ---
+
+
+Revisiting Critical GIS
+===============================
+
 
 (you should receive an invitation to join this repository shortly after this email).
 
