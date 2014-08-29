@@ -1,6 +1,6 @@
 ---
 title: Submitting your prospectus
-layout: screen
+layout: newlayout
 ---
 
 (you should receive an invitation to join this repository shortly after this email).
