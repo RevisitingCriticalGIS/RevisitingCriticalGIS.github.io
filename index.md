@@ -7,5 +7,4 @@ layout: newstyle
 
 
 * Our [GitHub site](https://github.com/RevisitingCriticalGIS/)
-
-* [Instructions for posting your prospectus](http://revisitingcriticalgis.github.io/prospectus.html)
+* [Instructions](http://revisitingcriticalgis.github.io/prospectus.html) for posting your prospectus.
