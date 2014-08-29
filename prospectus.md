@@ -2,7 +2,6 @@
 title: Revisiting Critical GIS
 layout: newstyle
 ---
-
 ### Posting your prospectus
 
 #### Join GitHub and [the RevisitingCriticalGIS GitHub Organization](https://github.com/RevisitingCriticalGIS/)
@@ -17,5 +16,3 @@ layout: newstyle
 3. Paste your text into the main window.
 4. Hit the green Commit New File button at the bottom.
 5. Check out the other prospectus files [in the repo directory.](https://github.com/RevisitingCriticalGIS/Prospectuses)
-
-
