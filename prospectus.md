@@ -4,6 +4,7 @@ layout: newstyle
 ---
 ### Posting your prospectus
 
+
 #### Join GitHub and [the RevisitingCriticalGIS GitHub Organization](https://github.com/RevisitingCriticalGIS/)
 
 * You should receive an invitation to join this repository shortly after this email.
