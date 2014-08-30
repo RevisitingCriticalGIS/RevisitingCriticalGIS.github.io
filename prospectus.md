@@ -16,5 +16,5 @@ layout: newstyle
  
 PS: If you're interested in delving deeper into GitHub, you can:
 
-1. Follow [a tutorial](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1). Excerpt of hype: "GitHub For Beginners: Don't Get Scared, Get Started. GitHub is more than just a programmer's tool. If you want to collaborate on anything, you should give it a try.", and/or,
+1. Follow [a tutorial](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1). Excerpt of hype: "GitHub For Beginners: Don't Get Scared, Get Started. GitHub is more than just a programmer's tool. If you want to collaborate on anything, you should give it a try...," and/or,
 2. As we wrote in the acceptance lettter, "If you’re interested in the larger social and scholarly implications of GitHub, bloggers at The Chronicle of Higher Education have discussed it extensively and not entirely without critical stance, including in [these articles,](http://chronicle.com/blogs/profhacker/tag/github) or you can look at [“Seven Ways to Use GitHub that Aren’t Coding.”](http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding)
