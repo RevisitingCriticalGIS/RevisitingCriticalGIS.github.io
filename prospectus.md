@@ -11,7 +11,7 @@ layout: newstyle
  * We'll get back to you via email once we have added you as a team member of [our Revisiting Critical GIS 'organization'.](https://github.com/RevisitingCriticalGIS/)
 3. Submitting your text
  * After you have been added to our organization, you can go to [this page](https://github.com/RevisitingCriticalGIS/Prospectuses/new/master), which lets you create a new file in the [Prospectuses 'repository', aka 'repo'.](https://github.com/RevisitingCriticalGIS/Prospectuses/)
- * Give your file a name with a .txt extension ("LukeBergmann.txt", say). Alternatively, if you [know about Markdown](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes) or would like to, use a '.md' extension.
+ * Give your file a name with a .md extension ("LukeBergmann.md", say). Some may find it rewarding to [learn more about Markdown](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes), the simple text styling language being used here.
  * Paste your text into the main window.
  * Hit the green 'Commit New File' button at the bottom.
  * Check out the other prospectus files [in the Prospectuses repo.](https://github.com/RevisitingCriticalGIS/Prospectuses)
