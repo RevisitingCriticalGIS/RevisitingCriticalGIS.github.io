@@ -9,7 +9,7 @@ layout: newstyle
  * To create an account, you will need to select a username, provide an email, and create a password. When asked on step two what "plan" you would like, please select the *free* level. That will be sufficient for this meeting's needs.
 2. Join our RevisitingCriticalGIS GitHub Organization
  * Send us an email at [revisitingcritgis@gmail.com](mailto:revisitingcritgis@gmail.com) with your GitHub user name.
- * You will receive an email from GitHub asking you to confirm our invitation for you to become a 'Participants' team member in [our Revisiting Critical GIS 'organization'.](https://github.com/RevisitingCriticalGIS/) 
+ * Once we receive it and act on it, you will receive an email from GitHub asking you to confirm our invitation for you to become a 'Participants' team member in [our Revisiting Critical GIS 'organization'.](https://github.com/RevisitingCriticalGIS/) 
 3. Submitting your text
  * After you have accepted your invitation to our organizational team, you can go to [this page](https://github.com/RevisitingCriticalGIS/Prospectuses/new/master), which lets you create a new file in the [Prospectuses 'repository', aka 'repo'.](https://github.com/RevisitingCriticalGIS/Prospectuses/) You won't be able to even see this private repo until you are a team member and are logged in on your present browser--until then, going to this URL will merely give you a 404 Not Found error!
  * Give your file a name with a .md extension ("LukeBergmann.md", say). Some may find it rewarding to [learn more about Markdown](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes), the simple text styling language being used here, but it's not critical.
