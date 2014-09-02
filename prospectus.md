@@ -6,6 +6,7 @@ layout: newstyle
 
 1. Join GitHub
  * Go to [this page](https://github.com/join) to join GitHub, if you don't have an account [that you'd like to use for this meeting.]
+ * To create an account, you will need to select a username, provide an email, and create a password. When asked on step two what "plan" you would like, please select the *free* level. That will be sufficient for this meeting's needs.
 2. Join our RevisitingCriticalGIS GitHub Organization
  * Send us an email at [revisitingcritgis@gmail.com](mailto:revisitingcritgis@gmail.com) with your GitHub user name.
  * We'll get back to you via email once we have added you as a team member of [our Revisiting Critical GIS 'organization'.](https://github.com/RevisitingCriticalGIS/)
