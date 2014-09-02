@@ -7,7 +7,7 @@ layout: newstyle
 1. Join GitHub
  * Go to [this page](https://github.com/join) to join GitHub, if you don't have an account [that you'd like to use for this meeting.]
 2. Join our RevisitingCriticalGIS GitHub Organization
- * Send us an email at [revisitingcritgis@gmail.com]() with your GitHub user name.
+ * Send us an email at [revisitingcritgis@gmail.com](mailto:revisitingcritgis@gmail.com) with your GitHub user name.
  * We'll get back to you via email once we have added you as a team member of [our Revisiting Critical GIS 'organization'.](https://github.com/RevisitingCriticalGIS/)
 3. Submitting your text
  * After you have been added to our organization, you can go to [this page](https://github.com/RevisitingCriticalGIS/Prospectuses/new/master), which lets you create a new file in the [Prospectuses 'repository', aka 'repo'.](https://github.com/RevisitingCriticalGIS/Prospectuses/)
