@@ -4,11 +4,13 @@ layout: newstyle
 ---
 ## Posting your prospectus or other text
 
-1. Join GitHub and our RevisitingCriticalGIS GitHub Organization
- * You should have received an email invitation to join GitHub as a new user and affiliate with [our 'organization'.](https://github.com/RevisitingCriticalGIS/)
- * Alternatively, if you are already on GitHub, get us your account name and we'll add you!
-2. Submitting your text
- * [This page](https://github.com/RevisitingCriticalGIS/Prospectuses/new/master) lets you create a new file in the [Prospectuses 'repository', aka 'repo'.](https://github.com/RevisitingCriticalGIS/Prospectuses/)
+1. Join GitHub
+ * Go to [this page](https://github.com/join) to join GitHub, if you don't have an account [that you'd like to use for this meeting.]
+2. Join our RevisitingCriticalGIS GitHub Organization
+ * Send us an email at [revisitingcritgis@gmail.com]() with your GitHub user name.
+ * We'll get back to you via email once we have added you as a team member of [our Revisiting Critical GIS 'organization'.](https://github.com/RevisitingCriticalGIS/)
+3. Submitting your text
+ * After you have been added to our organization, you can go to [this page](https://github.com/RevisitingCriticalGIS/Prospectuses/new/master), which lets you create a new file in the [Prospectuses 'repository', aka 'repo'.](https://github.com/RevisitingCriticalGIS/Prospectuses/)
  * Give your file a name with a .txt extension ("LukeBergmann.txt", say). Alternatively, if you [know about Markdown](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes) or would like to, use a '.md' extension.
  * Paste your text into the main window.
  * Hit the green 'Commit New File' button at the bottom.
