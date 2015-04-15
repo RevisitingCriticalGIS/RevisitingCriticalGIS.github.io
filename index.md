@@ -55,56 +55,56 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
     <td>8:00A</td>
     <td>Water Tower, Hyatt, West Tower, Bronze Level</td>
     <td>Paper</td>
-    <td>1136 Critical Geographies of the Smart City 1</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21660">1136 Critical Geographies of the Smart City 1</a></td>
     <td>David Murakami Wood, Rob Kitchin, Torin Monahan</td>
   </tr>
   <tr>
     <td>8:00A</td>
     <td>Bleacher Center - 303 classroom</td>
     <td>Panel</td>
-    <td>1187 #CritGIS: Pedagogies of Critical GIS</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22450">1187 #CritGIS: Pedagogies of Critical GIS</a></td>
     <td>Alex Tarr & LaDona Knigge</td>
   </tr>
   <tr>
     <td>10:00A</td>
     <td>Water Tower, Hyatt, West Tower, Bronze Level</td>
     <td>Paper</td>
-    <td>1236 Critical Geographies of the Smart City 2</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21661">1236 Critical Geographies of the Smart City 2</a></td>
     <td>David Murakami Wood, Rob Kitchin, Torin Monahan</td>
   </tr>
   <tr>
     <td>10:00A</td>
     <td>Addams, Hyatt, West Tower, Silver Level</td>
     <td>Paper</td>
-    <td>1257 Geographies of Media II: Big Data/Technology/Security</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22628">1257 Geographies of Media II: Big Data/Technology/Security</a></td>
     <td>John Finn, Laura Sharp, Joseph Palis</td>
   </tr>
   <tr>
     <td>12:40P</td>
     <td>Skyway 261, Hyatt, East Tower, Blue Level</td>
     <td>Paper</td>
-    <td>1402 Geography and Design III: Geographic Design Research</td>
+    <td><A href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22694">1402 Geography and Design III: Geographic Design Research</a></td>
     <td>Eric Huntley, Matt Wilson</td>
   </tr>
   <tr>
     <td>12:40P</td>
     <td>Bleacher Center - 303 classroom</td>
     <td>Panel</td>
-    <td>1487 Where’s the Value? Emerging Digital Economies of Geolocation</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21388">1487 Where’s the Value? Emerging Digital Economies of Geolocation</a></td>
     <td>Jeremy Crampton,& Agnieszka Lezyzcnski</td>
   </tr>
   <tr>
     <td>2:40P</td>
     <td>Bleacher Center - 303 classroom</td>
     <td>Paper</td>
-    <td>1587 #CritGIS: Social Justice and GIS: Past, Present, and Future</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22195">1587 #CritGIS: Social Justice and GIS: Past, Present, and Future</a></td>
     <td>Ellen Kersten</td>
   </tr>
   <tr>
     <td>2:40P</td>
     <td>Plaza B, Hyatt, East Tower, Green Level</td>
     <td>Panel</td>
-    <td>1529 Robots</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21324">1529 Robots</a></td>
     <td>Lily House-Peters, Vincent Del Casino</td>
   </tr>
 </table>
@@ -118,77 +118,77 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
     <td>8:00A</td>
     <td>Grand Suite 2 AB, Hyatt, East Tower, Gold Level</td>
     <td>Paper</td>
-    <td>2125 Critical Data, Critical Technology: In Praxis</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22594">2125 Critical Data, Critical Technology: In Praxis</a></td>
     <td>Ryan Burns, Craig Dalton, jim Thatcher</td>
   </tr>
   <tr>
     <td>8:00A</td>
     <td>Columbian, Hyatt, West Tower, Bronze Level</td>
     <td>Paper</td>
-    <td>2131 New Ways of Thinking about Space, Place and Maps</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=23504">2131 New Ways of Thinking about Space, Place and Maps</a></td>
     <td>GeoHumanities</td>
   </tr>
   <tr>
     <td>8:00A</td>
     <td>Stetson D, Hyatt, West Tower, Purple Level</td>
     <td>Paper</td>
-    <td>2153 Looking Backwards and Forwards in Participatory GIS</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21284">2153 Looking Backwards and Forwards in Participatory GIS</a></td>
     <td>Bandana Kar, Rina Ghose</td>
   </tr>
   <tr>
     <td>10:00A</td>
     <td>Grand Suite 2 AB, Hyatt, East Tower, Gold Level</td>
     <td>Paper</td>
-    <td>2225 Critical Data, Critical Technology: In Theory 1</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22598">2225 Critical Data, Critical Technology: In Theory 1</a></td>
     <td>Ryan Burns, Craig Dalton, jim Thatcher</td>
   </tr>
   <tr>
     <td>10:00A</td>
     <td>Grand Suite 2 AB, Hyatt, East Tower, Gold Level</td>
     <td>Paper</td>
-    <td>2226 Critical Data, Critical Technology: In Theory 2</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22677">2226 Critical Data, Critical Technology: In Theory 2</a></td>
     <td>Ryan Burns, Craig Dalton, jim Thatcher</td>
   </tr>
   <tr>
     <td>10:00A</td>
     <td>Stetson D, Hyatt, West Tower, Purple Level</td>
     <td>Paper</td>
-    <td>2253 Looking Backwards and Forwards in Participatory GIS II</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22680">2253 Looking Backwards and Forwards in Participatory GIS II</a></td>
     <td>Bandana Kar, Rina Ghose</td>
   </tr>
   <tr>
     <td>1:20P</td>
     <td>Stetson D, Hyatt, West Tower, Purple Level</td>
     <td>Paper</td>
-    <td>2453 Looking Backwards and Forwards in Participatory GIS III</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22839">2453 Looking Backwards and Forwards in Participatory GIS III</a></td>
     <td>Bandana Kar, Rina Ghose</td>
   </tr>
   <tr>
     <td>1:20P</td>
     <td>Wright, Hyatt, West Tower, Silver Level</td>
     <td>Panel</td>
-    <td>2464 Meet Sidewalk City's author Annette Kim </td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22516">2464 Meet Sidewalk City's author Annette Kim</a></td>
     <td>Annette Kim</td>
   </tr>
   <tr>
     <td>3:20P</td>
     <td>Water Tower, Hyatt, West Tower, Bronze Level</td>
     <td>Paper</td>
-    <td>2536 Extending GIS for the Humanities</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21168">2536 Extending GIS for the Humanities</a></td>
     <td>Karl Grossner</td>
   </tr>
   <tr>
     <td>3:20P</td>
     <td>Stetson D, Hyatt, West Tower, Purple Level</td>
     <td>Panel</td>
-    <td>2553 Looking Backwards and Forwards in Participatory GIS IV</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22778">2553 Looking Backwards and Forwards in Participatory GIS IV</a></td>
     <td>Bandana Kar, Rina Ghose</td>
   </tr>
   <tr>
     <td>5:20P</td>
     <td>Regency B, Hyatt, West Tower, Gold Level</td>
     <td>Panel</td>
-    <td>2643 Geography and Design I: Agency of Design</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21942">2643 Geography and Design I: Agency of Design</a></td>
     <td>Eric Huntley, Matt Wilson</td>
   </tr>
 </table>
