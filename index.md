@@ -1,8 +1,9 @@
 ---
-title: Revisiting Critical GIS
+title: Revisiting Critical GIS  
+###### In the spirit of a meeting held at Friday Harbor on October 17-20, 2014
 layout: newstyle
 ---
-###### In the spirit of a meeting held at Friday Harbor on October 17-20, 2014
+
 
 
 
