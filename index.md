@@ -2,15 +2,10 @@
 title: Revisiting Critical GIS
 layout: newstyle
 ---
-
-#### A meeting at Friday Harbor on October 17-20, 2014
-
-* Our [GitHub organizational site.](https://github.com/RevisitingCriticalGIS/)
-* [Instructions](http://revisitingcriticalgis.github.io/prospectus.html) for posting your prospectus.
+#### In the spirit of a meeting held at Friday Harbor on October 17-20, 2014
 
 
-
-**Curating the AAG – Critical takes on technology and spatial information**
+###**Curating the AAG – Critical takes on technology, cartography, and spatial information**
 
  
 
@@ -400,3 +395,6 @@ Fumaz, Hug March</td>
     <td>Barry Joel Kronenfeld</td>
   </tr>
 </table>
+
+
+
