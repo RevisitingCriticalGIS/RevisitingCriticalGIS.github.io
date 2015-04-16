@@ -273,7 +273,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
     <td>3:20P</td>
     <td>Regency D, Hyatt, West Tower, Gold Level</td>
     <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22466">3545 #CritGIS: On the Political Economy of Geospatial Technologies</a></td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22466">3545 CritGIS: On the Political Economy of Geospatial Technologies</a></td>
     <td>Jim Thatcher, Craig Dalton, Ryan Burns</td>
   </tr>
   <tr>
