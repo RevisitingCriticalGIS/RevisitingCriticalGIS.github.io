@@ -330,7 +330,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
     <td>Regency B, Hyatt, West Tower, Gold Level</td>
     <td>Paper</td>
     <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21103">4143 Technology and the cities of tomorrow: Exploring the smart city imagery (and beyond) (1)</a></td>
-    <td>Marco Santangelo, Ramon Ribera- Fumaz, Hug March</td>
+    <td>Marco Santangelo, Ramon Ribera-Fumaz, Hug March</td>
   </tr>
   <tr>
     <td>8:00A</td>
