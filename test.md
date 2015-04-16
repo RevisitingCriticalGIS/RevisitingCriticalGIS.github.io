@@ -64,7 +64,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
     <td>Bleacher Center - 303 classroom</td>
     <td>Panel</td>
     <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22450">1187 #CritGIS: Pedagogies of Critical GIS</a></td>
-    <td>Alex Tarr & LaDona Knigge</td>
+    <td>Alex Tarr, LaDona Knigge</td>
   </tr>
   <tr>
     <td>10:00A</td>
@@ -92,7 +92,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
     <td>Bleacher Center - 303 classroom</td>
     <td>Panel</td>
     <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21388">1487 Where’s the Value? Emerging Digital Economies of Geolocation</a></td>
-    <td>Jeremy Crampton,& Agnieszka Lezyzcnski</td>
+    <td>Jeremy Crampton, Agnieszka Lezyzcnski</td>
   </tr>
   <tr>
     <td>2:40P</td>
@@ -168,7 +168,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
     <td>1:20P</td>
     <td>Wright, Hyatt, West Tower, Silver Level</td>
     <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22516">2464 Meet Sidewalk City's author Annette Kim</a></td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22516">2464 Meet Sidewalk Citys author Annette Kim</a></td>
     <td>Annette Kim</td>
   </tr>
   <tr>
@@ -266,7 +266,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
     <td>3:20P</td>
     <td>Regency C, Hyatt, West Tower, Gold Level</td>
     <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21989">3544 New Directions in Mapping 2: Open Source, Crowd-sourcing and 'Big Data'</a></td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21989">3544 New Directions in Mapping 2: Open Source, Crowd-sourcing and Big Data</a></td>
     <td>Alan McConchie, Matt Zook, Sean Gorman</td>
   </tr>
   <tr>
