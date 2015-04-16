@@ -334,7 +334,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
   </tr>
   <tr>
     <td>8:00A</td>
-    <td>Lucerne 1, Swissôtel, Lucerne Level</td>
+    <td>Lucerne 1, Swissotel, Lucerne Level</td>
     <td>Paper</td>
     <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22062">4173 Beyond motivation? Understanding enthusiasm in citizen science and volunteered geographic information</a></td>
     <td>Hilary Geoghegan, Muki Haklay</td>
