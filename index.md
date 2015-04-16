@@ -45,7 +45,7 @@ On **Friday April 24**, another full slate of sessions start bright and early at
 
 Starting at 1:20 p.m., Alan McConchie and Muki Haklay have put together a pair of sessions on **OpenStreetMap Studies** held in Regency C of the Hyatt West Tower.
 
-There are *many, many* other sessions of interest at the AAG. We’ve barely scratched the surface. To make our coverage a little more complete, below we’ve compiled a handy list including the sessions called out above, and others that look promising for one reason or another. In the spirit of Friday Harbor, we look forward to an exciting and varied meeting and hope to this document provides some orientation to the chaos of Chicago! See you there! 
+There are *many, many* other sessions of interest at the AAG. We’ve barely scratched the surface. To make our coverage a little more complete, below we’ve compiled a handy list including the sessions called out above, and others that look promising for one reason or another. In the spirit of Friday Harbor, we look forward to an exciting and varied meeting and hope that this document provides some orientation to the chaos of Chicago! See you there! 
 
 
 * * *
