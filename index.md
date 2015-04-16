@@ -48,6 +48,7 @@ Starting at 1:20 p.m., Alan McConchie and Muki Haklay have put together a pair o
 
 There are *many, many* other sessions of interest at the AAG. We’ve barely scratched the surface. To make our coverage a little more complete, below we’ve compiled a handy list including the sessions called out above, and others that look promising for one reason or another. In the spirit of Friday Harbor, we look forward to an exciting and varied meeting and hope to this document provides some orientation to the chaos of Chicago! See you there! 
 
+* * *
 **_TUESDAY_**
 
 <table>
@@ -110,7 +111,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 </table>
 
 
-
+* * *
 **_WEDNESDAY_**
 
 <table>
@@ -194,7 +195,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 </table>
 
 
-
+* * *
 **_THURSDAY_**
 
 <table>
@@ -320,7 +321,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 </table>
 
 
-
+* * *
 **_FRIDAY_**
 
 <table>
@@ -377,7 +378,7 @@ Fumaz, Hug March</td>
 </table>
 
 
-
+* * *
 **_SATURDAY_**
 
 <table>
@@ -390,5 +391,5 @@ Fumaz, Hug March</td>
   </tr>
 </table>
 
-
+* * *
 
