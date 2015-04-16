@@ -196,6 +196,63 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 
 
 
+
+* * *
+**_FRIDAY_**
+
+<table>
+  <tr>
+    <td>8:00A</td>
+    <td>Regency B, Hyatt, West Tower, Gold Level</td>
+    <td>Paper</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21103">4143 Technology and the cities of tomorrow: Exploring the smart city imagery (and beyond) 1</a></td>
+    <td>Marco Santangelo, Ramon Ribera-Fumaz, Hug March</td>
+  </tr>
+  <tr>
+    <td>8:00A</td>
+    <td>Lucerne 1, Swissotel, Lucerne Level</td>
+    <td>Paper</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22062">4173 Beyond motivation? Understanding enthusiasm in citizen science and volunteered geographic information</a></td>
+    <td>Hilary Geoghegan, Muki Haklay</td>
+  </tr>
+  <tr>
+    <td>10:00A</td>
+    <td>Columbian, Hyatt, West Tower, Bronze Level</td>
+    <td>Paper</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=23508">4231 Geographical Perspectives on Landscapes, Literature and Architecture</a></td>
+    <td>GeoHumanities</td>
+  </tr>
+  <tr>
+    <td>10:00A</td>
+    <td>Regency B, Hyatt, West Tower, Gold Level</td>
+    <td>Paper</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21905">4243 Technology and the cities of tomorrow: Exploring the smart city imagery (and beyond) 2</a></td>
+    <td>Marco Santangelo, Ramon Ribera-Fumaz, Hug March</td>
+  </tr>
+  <tr>
+    <td>1:20P</td>
+    <td>Columbus G, Hyatt, East Tower, Gold Level</td>
+    <td>Panel</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21918">4416 Geographers, geography and the new cartography</a></td>
+    <td>Janet Speake</td>
+  </tr>
+  <tr>
+    <td>1:20P</td>
+    <td>Regency C, Hyatt, West Tower, Gold Level</td>
+    <td>Paper</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21992">4444 OpenStreetMap Studies 1</a></td>
+    <td>Alan McConchie, Muki Haklay</td>
+  </tr>
+  <tr>
+    <td>3:20P</td>
+    <td>Regency C, Hyatt, West Tower, Gold Level</td>
+    <td>Paper</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22000">4544 OpenStreetMap Studies 2</a></td>
+    <td>Alan McConchie, Muki Haklay</td>
+  </tr>
+</table>
+
+
 * * *
 **_SATURDAY_**
 
