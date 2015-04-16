@@ -266,7 +266,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
     <td>3:20P</td>
     <td>Regency C, Hyatt, West Tower, Gold Level</td>
     <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21989">3544 New Directions in Mapping 2: Open Source, Crowd-sourcing and "Big Data"</a></td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21989">3544 New Directions in Mapping 2: Open Source, Crowd-sourcing and 'Big Data'</a></td>
     <td>Alan McConchie, Matt Zook, Sean Gorman</td>
   </tr>
   <tr>
