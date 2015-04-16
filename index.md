@@ -198,6 +198,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 
 **_THURSDAY_**
 
+
 <table>
 <tr>
 <td>8:00A</td>
@@ -324,6 +325,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 
 **_FRIDAY_**
 
+
 <table>
   <tr>
     <td>8:00A</td>
@@ -378,6 +380,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 
 
 **_SATURDAY_**
+
 
 <table>
   <tr>
