@@ -3,7 +3,7 @@ title: Revisiting Critical GIS
 layout: newstyle
 ---
 ###### In the spirit of a meeting held at Friday Harbor on October 17-20, 2014
-
+s
 
 
 ###**Curating the AAG – Critical takes on technology, cartography, and spatial information**
@@ -29,10 +29,10 @@ Bright and early at 8:00 a.m. in the Bleacher Center (303 Classroom), is session
 
 Later, at 2:40 p.m. also in the same place is session **1587, #CritGIS: Social Justice and GIS: Past, Present, and Future** organized by Ellen Kersten with Jon Cinnamon as chair. It aims to "stimulate discussion about how social justice has been conceptualized, addressed, and enacted in this sub-field, and to explore the diverse ways that GIS influences, both positively and negatively, and is influenced by social justice movements."
 
-Between those two sessions, not directly associated with the Friday Harbor meeting, but highly relevant, Jeremy Crampton and Agnieszka Leszczynski have organized a panel discussion that asks **"Where’s the Value? Emerging Digital Economies of Geolocation."** It starts at 12:40 p.m. (in the same room again!) as our sessions and will feature Jeremy, Agnieszka, Rob Kitchin, Elvin Wyly, David Murakami Wood, Julie Cupples, and Sam Kinsley. 
+Between those two sessions, not directly associated with the Friday Harbor meeting, but highly relevant, Jeremy Crampton and Agnieszka Leszczynski have organized a panel discussion that asks, **"Where’s the Value? Emerging Digital Economies of Geolocation."** It starts at 12:40 p.m. (in the same room again!) as our sessions and will feature Jeremy, Agnieszka, Rob Kitchin, Elvin Wyly, David Murakami Wood, Julie Cupples, and Sam Kinsley. 
 
 * * *
-**Wednesday April 22** similarly begins bright and early at 8:00 a.m. with a series of sessions organized by Craig Dalton, Ryan Burns, and Jim Thatcher on **Critical Data and Critical Technology Studies**. The first session, in Grand Suite 2 AB of the Hyatt East Tower, focuses on these ideas *i***_n praxis_**.  At 10:00 a.m., the first of two sessions on **Critical Data and Technology Studies ****_in theory_** begins in the same room. **The third in the series starts at 1:20 p.m**.
+**Wednesday April 22** similarly begins bright and early at 8:00 a.m. with a series of sessions organized by Craig Dalton, Ryan Burns, and Jim Thatcher on **Critical Data and Critical Technology Studies**. The first session, in Grand Suite 2 AB of the Hyatt East Tower, focuses on these ideas **_in praxis_**.  At 10:00 a.m., the first of two sessions on **Critical Data and Technology Studies** **_in theory_** begins in the same room. **The third in the series starts at 1:20 p.m**.
 
 Meanwhile, if Critical Data and Technology isn’t your cup of tea, Bandana Kar and Rina Ghose have organized a series of sessions called **"Looking Backwards and Forwards in Participatory GIS"** in the Stetson D room of the Hyatt West Tower at 8:00 a.m. These sessions similarly continue at 10:00 a.m. and wrap up in the 1:20 p.m. time slot.
 
