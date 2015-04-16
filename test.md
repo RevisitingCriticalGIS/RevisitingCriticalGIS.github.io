@@ -200,28 +200,6 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 
 <table>
 
-  
-  <tr>
-    <td>3:20P</td>
-    <td>Stetson BC, Hyatt, West Tower, Purple Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21182">3552 From Online Sweat Shops to Silicon Savannahs (session 1): Geographies of Production in Digital Economies of Low-Income Countries</a></td>
-    <td>Mark Graham, Nicolas Friederici, Isis Hjorth</td>
-  </tr>
-  <tr>
-    <td>3:20P</td>
-    <td>Stetson G, Hyatt, West Tower, Purple Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22030">3556 Geographers, geography and the new cartography</a></td>
-    <td>Janet Speake</td>
-  </tr>
-  <tr>
-    <td>3:20P</td>
-    <td>Burnham, Hyatt, West Tower, Silver Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21423">3558 Digital Disruptions and Urban Governance</a></td>
-    <td>Elizabeth Rapoport, Michele Acuto, Donald McNeil</td>
-  </tr>
   <tr>
     <td>5:20P</td>
     <td>Columbus CD, Hyatt, East Tower, Gold Level</td>
