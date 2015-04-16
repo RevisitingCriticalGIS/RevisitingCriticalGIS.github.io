@@ -144,17 +144,17 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
   </tr>
   <tr>
     <td>10:00A</td>
-    <td>Grand Suite 2 AB, Hyatt, East Tower, Gold Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22677">2226 Critical Data, Critical Technology: In Theory 2</a></td>
-    <td>Ryan Burns, Craig Dalton, jim Thatcher</td>
-  </tr>
-  <tr>
-    <td>10:00A</td>
     <td>Stetson D, Hyatt, West Tower, Purple Level</td>
     <td>Paper</td>
     <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22680">2253 Looking Backwards and Forwards in Participatory GIS II</a></td>
     <td>Bandana Kar, Rina Ghose</td>
+  </tr>
+  <tr>
+    <td>1:20P</td>
+    <td>Grand Suite 2 AB, Hyatt, East Tower, Gold Level</td>
+    <td>Paper</td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22677">2425 Critical Data, Critical Technology: In Theory 2</a></td>
+    <td>Ryan Burns, Craig Dalton, jim Thatcher</td>
   </tr>
   <tr>
     <td>1:20P</td>
