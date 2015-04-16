@@ -3,7 +3,6 @@ title: Revisiting Critical GIS
 layout: newstyle
 ---
 ###### In the spirit of a meeting held at Friday Harbor on October 17-20, 2014
-s
 
 
 ###**Curating the AAG – Critical takes on technology, cartography, and spatial information**
