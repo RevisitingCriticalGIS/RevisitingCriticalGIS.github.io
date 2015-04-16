@@ -199,48 +199,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 **_THURSDAY_**
 
 <table>
-  <tr>
-    <td>8:00A</td>
-    <td>Grand Suite 3, Hyatt, East Tower, Gold Level</td>
-    <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22526">3126 Authors Meet Critics: Weaponizing Maps</a></td>
-    <td>Alvaro Reyes</td>
-  </tr>
-  <tr>
-    <td>8:00A</td>
-    <td>Gold Coast, Hyatt, West Tower, Bronze Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=23503">3133 Bringing Together Geospatial Technologies and the Humanities</a></td>
-    <td>GeoHumanities</td>
-  </tr>
-  <tr>
-    <td>8:00A</td>
-    <td>Crystal C, Hyatt, West Tower, Green Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21101">3150 Spatial Big Data and Everyday Life I</a></td>
-    <td>Agnieszka Lezczynski, Jeremy Crampton</td>
-  </tr>
-  <tr>
-    <td>8:00A</td>
-    <td>Stetson BC, Hyatt, West Tower, Purple Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22536">3152 Digital Geo-Humanities</td>
-    <td>Nicholas Bauch</a></td>
-  </tr>
-  <tr>
-    <td>8:00A</td>
-    <td>Stetson D, Hyatt, West Tower, Purple Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21275">3153 Big Data - Perils and Promises</a></td>
-    <td>Bandana Kar, Rina Ghose</td>
-  </tr>
-  <tr>
-    <td>10:00A</td>
-    <td>Crystal C, Hyatt, West Tower, Green Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21156">3250 Spatial Big Data and Everyday Life II</a></td>
-    <td>Agnieszka Lezczynski, Jeremy Crampton</td>
-  </tr>
+
   <tr>
     <td>1:20P</td>
     <td>Regency C, Hyatt, West Tower, Gold Level</td>
