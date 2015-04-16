@@ -48,6 +48,7 @@ Starting at 1:20 p.m., Alan McConchie and Muki Haklay have put together a pair o
 
 There are *many, many* other sessions of interest at the AAG. We’ve barely scratched the surface. To make our coverage a little more complete, below we’ve compiled a handy list including the sessions called out above, and others that look promising for one reason or another. In the spirit of Friday Harbor, we look forward to an exciting and varied meeting and hope to this document provides some orientation to the chaos of Chicago! See you there! 
 
+
 * * *
 **_TUESDAY_**
 
@@ -111,7 +112,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 </table>
 
 
-* * *
+
 **_WEDNESDAY_**
 
 <table>
@@ -195,133 +196,132 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 </table>
 
 
-* * *
 **_THURSDAY_**
 
 <table>
-  <tr>
-    <td>8:00A</td>
-    <td>Grand Suite 3, Hyatt, East Tower, Gold Level</td>
-    <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22526">3126 Authors Meet Critics: Weaponizing Maps</a></td>
-    <td>Alvaro Reyes</td>
-  </tr>
-  <tr>
-    <td>8:00A</td>
-    <td>Gold Coast, Hyatt, West Tower, Bronze Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=23503">3133 Bringing Together Geospatial Technologies and the Humanities</a></td>
-    <td>GeoHumanities</td>
-  </tr>
-  <tr>
-    <td>8:00A</td>
-    <td>Crystal C, Hyatt, West Tower, Green Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21101">3150 Spatial Big Data and Everyday Life I</a></td>
-    <td>Agnieszka Lezczynski, Jeremy Crampton</td>
-  </tr>
-  <tr>
-    <td>8:00A</td>
-    <td>Stetson BC, Hyatt, West Tower, Purple Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22536">3152 Digital Geo-Humanities</td>
-    <td>Nicholas Bauch</a></td>
-  </tr>
-  <tr>
-    <td>8:00A</td>
-    <td>Stetson D, Hyatt, West Tower, Purple Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21275">3153 Big Data - Perils and Promises</a></td>
-    <td>Bandana Kar, Rina Ghose</td>
-  </tr>
-  <tr>
-    <td>10:00A</td>
-    <td>Crystal C, Hyatt, West Tower, Green Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21156">3250 Spatial Big Data and Everyday Life II</a></td>
-    <td>Agnieszka Lezczynski, Jeremy Crampton</td>
-  </tr>
-  <tr>
-    <td>1:20P</td>
-    <td>Regency C, Hyatt, West Tower, Gold Level</td>
-    <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21988">3444 New Directions in Mapping 1: Research, jobs, and teaching outside the academy</a></td>
-    <td>Alan McConchie, Britta Ricker, Matt Zook</td>
-  </tr>
-  <tr>
-    <td>1:20P</td>
-    <td>Crystal A, Hyatt, West Tower, Green Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22301">3448 Histories of Cartography: Power and Technologies in the 20th Century</a></td>
-    <td>Christina Dando</td>
-  </tr>
-  <tr>
-    <td>3:20P</td>
-    <td>Columbus CD, Hyatt, East Tower, Gold Level</td>
-    <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22093">3514 Jobs in geohumanities I </td>
-    <td>Laurel Catherine Smith</a></td>
-  </tr>
-  <tr>
-    <td>3:20P</td>
-    <td>Regency C, Hyatt, West Tower, Gold Level</td>
-    <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21989">3544 New Directions in Mapping 2: Open Source, Crowd-sourcing and 'Big Data'</a></td>
-    <td>Alan McConchie, Matt Zook, Sean Gorman</td>
-  </tr>
-  <tr>
-    <td>3:20P</td>
-    <td>Regency D, Hyatt, West Tower, Gold Level</td>
-    <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22466">3545 CritGIS: On the Political Economy of Geospatial Technologies</a></td>
-    <td>Jim Thatcher, Craig Dalton, Ryan Burns</td>
-  </tr>
-  <tr>
-    <td>3:20P</td>
-    <td>Stetson BC, Hyatt, West Tower, Purple Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21182">3552 From Online Sweat Shops to Silicon Savannahs (session 1): Geographies of Production in Digital Economies of Low-Income Countries</a></td>
-    <td>Mark Graham, Nicolas Friederici, Isis Hjorth</td>
-  </tr>
-  <tr>
-    <td>3:20P</td>
-    <td>Stetson G, Hyatt, West Tower, Purple Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22030">3556 Geographers, geography and the new cartography</a></td>
-    <td>Janet Speake</td>
-  </tr>
-  <tr>
-    <td>3:20P</td>
-    <td>Burnham, Hyatt, West Tower, Silver Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21423">3558 Digital Disruptions and Urban Governance</a></td>
-    <td>Elizabeth Rapoport, Michele Acuto, Donald McNeil</td>
-  </tr>
-  <tr>
-    <td>5:20P</td>
-    <td>Columbus CD, Hyatt, East Tower, Gold Level</td>
-    <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22093">3614 Jobs in geohumanities II</a></td>
-    <td>Laurel Catherine Smith</td>
-  </tr>
-  <tr>
-    <td>5:20P</td>
-    <td>Stetson BC, Hyatt, West Tower, Purple Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21334">3652 From Online Sweat Shops to Silicon Savannahs (session 2): Geographies of Production in Digital Economies of Low-Income Countries</a></td>
-    <td>Mark Graham, Nicolas Friederici, Isis Hjorth</td>
-  </tr>
-  <tr>
-    <td>5:20P</td>
-    <td>Burnham, Hyatt, West Tower, Silver Level</td>
-    <td>Paper</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21424">3658 Digital Disruptions and Urban Governance</a></td>
-    <td>Elizabeth Rapoport, Michele Acuto, Donald McNeil</td>
-  </tr>
+<tr>
+<td>8:00A</td>
+<td>Grand Suite 3, Hyatt, East Tower, Gold Level</td>
+<td>Panel</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22526">3126 Authors Meet Critics: Weaponizing Maps</a></td>
+<td>Alvaro Reyes</td>
+</tr>
+<tr>
+<td>8:00A</td>
+<td>Gold Coast, Hyatt, West Tower, Bronze Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=23503">3133 Bringing Together Geospatial Technologies and the Humanities</a></td>
+<td>GeoHumanities</td>
+</tr>
+<tr>
+<td>8:00A</td>
+<td>Crystal C, Hyatt, West Tower, Green Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21101">3150 Spatial Big Data and Everyday Life I</a></td>
+<td>Agnieszka Lezczynski, Jeremy Crampton</td>
+</tr>
+<tr>
+<td>8:00A</td>
+<td>Stetson BC, Hyatt, West Tower, Purple Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22536">3152 Digital Geo-Humanities</td>
+<td>Nicholas Bauch</a></td>
+</tr>
+<tr>
+<td>8:00A</td>
+<td>Stetson D, Hyatt, West Tower, Purple Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21275">3153 Big Data - Perils and Promises</a></td>
+<td>Bandana Kar, Rina Ghose</td>
+</tr>
+<tr>
+<td>10:00A</td>
+<td>Crystal C, Hyatt, West Tower, Green Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21156">3250 Spatial Big Data and Everyday Life II</a></td>
+<td>Agnieszka Lezczynski, Jeremy Crampton</td>
+</tr>
+<tr>
+<td>1:20P</td>
+<td>Regency C, Hyatt, West Tower, Gold Level</td>
+<td>Panel</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21988">3444 New Directions in Mapping 1: Research, jobs, and teaching outside the academy</a></td>
+<td>Alan McConchie, Britta Ricker, Matt Zook</td>
+</tr>
+<tr>
+<td>1:20P</td>
+<td>Crystal A, Hyatt, West Tower, Green Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22301">3448 Histories of Cartography: Power and Technologies in the 20th Century</a></td>
+<td>Christina Dando</td>
+</tr>
+<tr>
+<td>3:20P</td>
+<td>Columbus CD, Hyatt, East Tower, Gold Level</td>
+<td>Panel</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22093">3514 Jobs in geohumanities I </td>
+<td>Laurel Catherine Smith</a></td>
+</tr>
+<tr>
+<td>3:20P</td>
+<td>Regency C, Hyatt, West Tower, Gold Level</td>
+<td>Panel</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21989">3544 New Directions in Mapping 2: Open Source, Crowd-sourcing and 'Big Data'</a></td>
+<td>Alan McConchie, Matt Zook, Sean Gorman</td>
+</tr>
+<tr>
+<td>3:20P</td>
+<td>Regency D, Hyatt, West Tower, Gold Level</td>
+<td>Panel</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22466">3545 CritGIS: On the Political Economy of Geospatial Technologies</a></td>
+<td>Jim Thatcher, Craig Dalton, Ryan Burns</td>
+</tr>
+<tr>
+<td>3:20P</td>
+<td>Stetson BC, Hyatt, West Tower, Purple Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21182">3552 From Online Sweat Shops to Silicon Savannahs (session 1): Geographies of Production in Digital Economies of Low-Income Countries</a></td>
+<td>Mark Graham, Nicolas Friederici, Isis Hjorth</td>
+</tr>
+<tr>
+<td>3:20P</td>
+<td>Stetson G, Hyatt, West Tower, Purple Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22030">3556 Geographers, geography and the new cartography</a></td>
+<td>Janet Speake</td>
+</tr>
+<tr>
+<td>3:20P</td>
+<td>Burnham, Hyatt, West Tower, Silver Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21423">3558 Digital Disruptions and Urban Governance</a></td>
+<td>Elizabeth Rapoport, Michele Acuto, Donald McNeil</td>
+</tr>
+<tr>
+<td>5:20P</td>
+<td>Columbus CD, Hyatt, East Tower, Gold Level</td>
+<td>Panel</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22093">3614 Jobs in geohumanities II</a></td>
+<td>Laurel Catherine Smith</td>
+</tr>
+<tr>
+<td>5:20P</td>
+<td>Stetson BC, Hyatt, West Tower, Purple Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21334">3652 From Online Sweat Shops to Silicon Savannahs (session 2): Geographies of Production in Digital Economies of Low-Income Countries</a></td>
+<td>Mark Graham, Nicolas Friederici, Isis Hjorth</td>
+</tr>
+<tr>
+<td>5:20P</td>
+<td>Burnham, Hyatt, West Tower, Silver Level</td>
+<td>Paper</td>
+<td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=21424">3658 Digital Disruptions and Urban Governance</a></td>
+<td>Elizabeth Rapoport, Michele Acuto, Donald McNeil</td>
+</tr>
 </table>
 
 
-* * *
+
 **_FRIDAY_**
 
 <table>
@@ -377,7 +377,6 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
 </table>
 
 
-* * *
 **_SATURDAY_**
 
 <table>
@@ -390,5 +389,4 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
   </tr>
 </table>
 
-* * *
 
