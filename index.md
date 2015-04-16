@@ -168,7 +168,7 @@ There are *many, many* other sessions of interest at the AAG. We’ve barely scr
     <td>1:20P</td>
     <td>Wright, Hyatt, West Tower, Silver Level</td>
     <td>Panel</td>
-    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22516">2464 Meet Sidewalk City's author Annette Kim</a></td>
+    <td><a href="http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22516">2464 Meet Sidewalk City author Annette Kim</a></td>
     <td>Annette Kim</td>
   </tr>
   <tr>
